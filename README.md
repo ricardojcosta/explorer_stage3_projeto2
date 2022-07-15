@@ -1,4 +1,4 @@
-# Explorer_Stage3_Projeto2
+# Curso Explorer - Rocketseat - Stage 3
 
 ## Projeto desenvolvido para praticar responsividade. 
 
